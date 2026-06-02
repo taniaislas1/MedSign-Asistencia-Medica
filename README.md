@@ -6,7 +6,7 @@
 
 
 ## Descripción
-** Su propósito es facilitar la comunicación preliminar entre pacientes con discapacidad auditiva y el personal médico. Por medio de la detección del alfabeto de señas en tiempo real, se determinan los síntomas que el paciente intenta comunicar a través de acrónimos clínicos.**
+** Su propósito es facilitar la comunicación preliminar entre pacientes con discapacidad auditiva y el personal médico. Por medio de la detección del alfabeto de señas en tiempo real, se determinan los síntomas que el paciente intenta comunicar a través de acrónimos clínicos. **
 
 
 ## Funciones de la aplicación
